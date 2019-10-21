@@ -1,3 +1,3 @@
 # EventPlaza
-Project for the Database Course done in IVth sem
+Project for the Database Course done in 4th semester.
 
